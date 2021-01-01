@@ -1,0 +1,30 @@
+.form-control {
+    width: 100%;
+    padding: 10px 10px;
+    border: none;
+}
+.Signup-Form {
+    margin: 0 auto;
+    display: table;
+    background: #b5e0ed94;
+    padding: 40px 50px;
+}
+.Signup-Form h2 {
+    color: #8b2626;
+    font-size: 25px;
+}
+.form-group {
+    padding: 5px 0;
+}
+.btn{
+    margin-top: 10px;
+    background: #927070;
+    padding: 10px 24px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: .3s;
+}
+.btn:hover{
+    background: #e01276;
+}
